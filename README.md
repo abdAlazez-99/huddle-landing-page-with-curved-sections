@@ -22,8 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [سيتم إضافته لاحقاً بعد رفع الموقع]
-- Solution URL: [سيتم إضافته لاحقاً]
+- Live Site URL: https://github.com/abdAlazez-99/huddle-landing-page-with-curved-sections.git
 
 ## My process
 
