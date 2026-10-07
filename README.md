@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://github.com/abdAlazez-99/huddle-landing-page-with-curved-sections.git
+- Live Site URL: (https://abdalazez-99.github.io/huddle-landing-page-with-curved-sections/)
 
 ## My process
 
