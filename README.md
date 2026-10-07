@@ -43,4 +43,4 @@ I also practiced using `hsla()` color values to match the exact gradient overlay
 ## Author
 
 - GitHub - [@abdAlazez-99](https://github.com/abdAlazez-99)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@abdAlazez-99](https://www.frontendmentor.io/profile/abdAlazez-99)
